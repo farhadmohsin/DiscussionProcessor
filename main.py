@@ -1,7 +1,7 @@
 from DiscussionChuck import DiscussionChuck, DiscussionChuckContainer
 from Output import *
 
-from progressbar import progressbar
+#from progressbar import progressbar
 import re
 from glob import glob
 
@@ -110,7 +110,7 @@ def main():
         chuck_container = discussionFileProcessor(file_path)
 
         # set up entity sentiment for each chuck
-        for i in progressbar(range(len(chuck_container))):
+        for i in range(len(chuck_container)):
             chuck = chuck_container[i]
             chuck.gen_entity_sentiment()
 
