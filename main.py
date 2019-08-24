@@ -1,5 +1,5 @@
 from DiscussionChuck import DiscussionChuck, DiscussionChuckContainer
-from Output import *
+from output import *
 
 #from progressbar import progressbar
 import re
@@ -117,10 +117,11 @@ def main():
         # get file name and alternative name from data
         file_name = file_path.split("\\")[2]
         datum = file_name.split("-")
-        alternatives = (datum[1], datum[3])
+        alternatives = (datum[1], datum[3].replace(".txt", ""))
 
         # do the entity job and save result
         generate_whole_entity_sentiment(alternatives, file_name, chuck_container)
+
 
 
 

@@ -1,2 +1,2 @@
 columbia -0.801 1
-nyu.txt -0.801 1
+nyu -0.801 1

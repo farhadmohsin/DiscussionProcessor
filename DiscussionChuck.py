@@ -18,7 +18,7 @@ It includes message ordering, sentiment analyze and so on
 google_client = language.LanguageServiceClient()
 
 # set up watson client
-watson_api = "I remove the api key for safety"
+watson_api = "RY0bRjK8iWHf8SzMlSk0DJwMNm6chVLy_GdVAch9klRt"
 service = NaturalLanguageUnderstandingV1(
     version='2019-07-12',
     iam_apikey= watson_api,
