@@ -1,10 +1,11 @@
 import plotly.graph_objects as go
+from glob import glob
 
 # Plotly API support
 
-# process whole entity sentiment data in to the following format
+# process entity sentiment data in to the following format
 # {alternative:([sentiment], [order]), alternative:([sentiment], [order])}
-def process_whole_entity_data(entity_file_path):
+def process_entity_data(entity_file_path):
     data_dict = {}
     data_file = open(entity_file_path, mode="r")
     for line in data_file:
@@ -20,10 +21,10 @@ def process_whole_entity_data(entity_file_path):
 
     return data_dict
 
+# generate scatter graph for entity sentiment data (anomalous)
+def gen_scatter_graph_entity_sentiment_data(data_filepath, filename):
 
-if __name__ == '__main__':
-
-    whole_data_dict = process_whole_entity_data("whole_entity_sentiment/1086301-berkeley-vs-yale.txt")
+    whole_data_dict = process_entity_data(data_filepath)
 
     fig = go.Figure()
 
@@ -47,4 +48,22 @@ if __name__ == '__main__':
     fig.update_layout(title='Styled Scatter',
                       yaxis_zeroline=False, xaxis_zeroline=False)
 
-    fig.write_image("statgraph/whole_entity_sentiment/1086301-berkeley-vs-yale.png")
+    filename = filename.replace("txt", "png")
+    fig.write_image("statgraph/individ_entity_sentiment/{}".format(filename))
+
+
+def main():
+    # go through every txt file in the target data folder
+    discussion_folder_path = "individ_entity_sentiment\*.txt"
+    for file_path in glob(discussion_folder_path):
+
+        # get file name and alternative name from data
+        file_name = file_path.split("\\")[1]
+
+        # do the entity job and save result
+        gen_scatter_graph_entity_sentiment_data(file_path, file_name)
+
+
+if __name__ == '__main__':
+    main()
+

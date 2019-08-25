@@ -18,7 +18,7 @@ It includes message ordering, sentiment analyze and so on
 google_client = language.LanguageServiceClient()
 
 # set up watson client
-watson_api = "Removed"
+watson_api = "RY0bRjK8iWHf8SzMlSk0DJwMNm6chVLy_GdVAch9klRt"
 service = NaturalLanguageUnderstandingV1(
     version='2019-07-12',
     iam_apikey= watson_api,
@@ -51,12 +51,15 @@ def watson_entity_extraction(text):
         try:
             response = service.analyze(
                 text=text,
-                features=Features(entities=EntitiesOptions(sentiment=True))
+                features=Features(entities=EntitiesOptions(sentiment=True)),
+                language="en"
             ).get_result()
-        except:
+        except Exception as e:
             response = None
             time.sleep(2)
-            print("Too Many Requests. Wait for Watson respond...")
+            print(e)
+            print()
+            print("Resent the request and Wait for Watson respond...")
 
     return response
 

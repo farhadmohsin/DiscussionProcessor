@@ -1,0 +1,15 @@
+cornell 0.000 12
+cornell 0.000 16
+columbia -0.943 16
+cornell 0.916 24
+cornell 0.000 33
+cornell 0.855 35
+columbia 0.643 35
+cornell -0.271 43
+columbia 0.608 43
+columbia 0.530 43
+columbia 0.356 60
+cornell 0.000 60
+columbia 0.000 60
+cornell -0.896 61
+cornell -0.896 61

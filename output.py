@@ -49,7 +49,7 @@ def output_individual_entity_sentiment(output_path, ind_alter_data):
 
     output_file.close()
 
-# output whole entity sentiment data (anonymous) in one discussion
+# output whole or individual entity sentiment data in one discussion
 # in the format of (alternative entity sentiment discussion order)
 # Yale 0.512 1
 # Berkeley -0.1 1
@@ -59,7 +59,7 @@ def output_individual_entity_sentiment(output_path, ind_alter_data):
 # [(alternative, sentiment, order), (alternative, sentiment, order) by order]
 # alternative: Yale or Berkeley
 # sentiment: 0.1
-def output_whole_entity_sentiment(output_path, whole_alter_data):
+def output_general_entity_sentiment(output_path, whole_alter_data):
     output_file = open(output_path, "w")
 
     # go through all data and save in output_file
