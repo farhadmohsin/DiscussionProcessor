@@ -71,10 +71,10 @@ def generate_most_chuck_entity_sentiment(alternatives, filename, chuck_container
 
         for entity, sentiment in chuck.entity_sentiment_list:
             if similar_entity_recognition(entity, alternative_one):
-                alter_datum = (alternative_one, sentiment, chuck.order)
+                alter_datum = (alternative_one, sentiment, chuck.order, chuck.user_id)
                 individ_alter_data.append(alter_datum)
             elif similar_entity_recognition(entity, alternative_two):
-                alter_datum = (alternative_two, sentiment, chuck.order)
+                alter_datum = (alternative_two, sentiment, chuck.order, chuck.user_id)
                 individ_alter_data.append(alter_datum)
 
     userid = user_most_chucks[0].user_id
@@ -97,11 +97,12 @@ def generate_whole_entity_sentiment(alternatives, filename, chuck_container):
         # go through all entity sentiment in one discussion chuck
         for entity, sentiment in chuck.entity_sentiment_list:
             # identify the entity text as alternative and save the sentiment and its order
+            # also includes the name of discussion chuck
             if similar_entity_recognition(entity, alternative_one):
-                alter_datum = (alternative_one, sentiment, chuck.order)
+                alter_datum = (alternative_one, sentiment, chuck.order, chuck.user_id)
                 whole_alter_data.append(alter_datum)
             elif similar_entity_recognition(entity, alternative_two):
-                alter_datum = (alternative_two, sentiment, chuck.order)
+                alter_datum = (alternative_two, sentiment, chuck.order, chuck.user_id)
                 whole_alter_data.append(alter_datum)
 
     output_general_entity_sentiment("whole_entity_sentiment/{}".format(filename), whole_alter_data)
@@ -120,7 +121,7 @@ def main():
         alternatives = (datum[1], datum[3].replace(".txt", ""))
 
         # do the entity job and save result
-        generate_most_chuck_entity_sentiment(alternatives, file_name, chuck_container)
+        generate_whole_entity_sentiment(alternatives, file_name, chuck_container)
 
 
 

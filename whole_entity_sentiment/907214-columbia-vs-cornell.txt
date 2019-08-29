@@ -1,96 +1,96 @@
-columbia -0.532 3
-columbia 0.295 4
-cornell 0.550 5
-columbia 0.363 5
-cornell 0.000 5
-columbia -0.369 6
-cornell 0.949 6
-columbia 0.726 9
-columbia 0.775 10
-cornell 0.000 12
-cornell -0.423 13
-columbia 0.831 13
-columbia 0.000 14
-columbia 0.000 15
-cornell -0.725 15
-cornell 0.000 16
-columbia -0.943 16
-cornell 0.523 17
-columbia 0.523 17
-cornell 0.639 18
-columbia 0.000 18
-columbia 0.000 19
-columbia -0.883 19
-cornell 0.970 21
-columbia 0.970 21
-columbia 0.618 23
-cornell 0.742 23
-cornell 0.916 24
-cornell 0.752 25
-columbia 0.370 25
-cornell 0.347 26
-columbia 0.617 26
-columbia 0.901 26
-cornell 0.952 27
-columbia 0.000 27
-columbia 0.943 28
-columbia -0.341 31
-cornell -0.712 31
-cornell -0.826 31
-cornell 0.591 32
-cornell -0.620 32
-cornell 0.000 33
-cornell 0.617 34
-columbia -0.367 34
-columbia 0.431 34
-cornell 0.855 35
-columbia 0.643 35
-columbia -0.298 36
-cornell 0.774 36
-columbia 0.621 37
-cornell 0.000 37
-columbia 0.000 42
-cornell 0.925 42
-cornell 0.000 42
-cornell 0.643 42
-cornell -0.271 43
-columbia 0.608 43
-columbia 0.530 43
-columbia 0.000 47
-columbia 0.000 48
-cornell 0.000 48
-columbia 0.000 48
-cornell 0.925 48
-cornell 0.000 48
-columbia 0.000 48
-columbia 0.315 49
-cornell -0.999 49
-cornell -0.359 49
-cornell -0.629 50
-columbia -0.504 50
-columbia -0.608 51
-cornell -0.393 52
-columbia -0.331 52
-cornell 0.000 52
-cornell -0.579 52
-cornell -0.830 53
-cornell 0.000 53
-columbia -0.798 54
-cornell -0.651 55
-cornell -0.839 55
-columbia 0.717 57
-columbia 0.964 58
-columbia -0.636 59
-cornell 0.323 59
-columbia 0.356 60
-cornell 0.000 60
-columbia 0.000 60
-cornell -0.896 61
-cornell -0.896 61
-columbia -0.525 62
-cornell 0.808 62
-columbia 0.922 65
-columbia 0.000 66
-cornell 0.000 66
-columbia -0.468 68
-cornell 0.836 69
+columbia -0.532 3 columbiacornell
+columbia 0.295 4 admissionsgeek
+cornell 0.550 5 muerteapablo
+columbia 0.363 5 muerteapablo
+cornell 0.000 5 muerteapablo
+columbia -0.369 6 admissionsgeek
+cornell 0.949 6 admissionsgeek
+columbia 0.726 9 pwoods
+columbia 0.775 10 gedion9324
+cornell 0.000 12 monydad
+cornell -0.423 13 muerteapablo
+columbia 0.831 13 muerteapablo
+columbia 0.000 14 shahdin
+columbia 0.000 15 gedion9324
+cornell -0.725 15 gedion9324
+cornell 0.000 16 monydad
+columbia -0.943 16 monydad
+cornell 0.523 17 muerteapablo
+columbia 0.523 17 muerteapablo
+cornell 0.639 18 gedion9324
+columbia 0.000 18 gedion9324
+columbia 0.000 19 columbiacornell
+columbia -0.883 19 columbiacornell
+cornell 0.970 21 3togo
+columbia 0.970 21 3togo
+columbia 0.618 23 admissionsgeek
+cornell 0.742 23 admissionsgeek
+cornell 0.916 24 monydad
+cornell 0.752 25 admissionsgeek
+columbia 0.370 25 admissionsgeek
+cornell 0.347 26 CayugaRed2005
+columbia 0.617 26 CayugaRed2005
+columbia 0.901 26 CayugaRed2005
+cornell 0.952 27 admissionsgeek
+columbia 0.000 27 admissionsgeek
+columbia 0.943 28 CayugaRed2005
+columbia -0.341 31 pbr
+cornell -0.712 31 pbr
+cornell -0.826 31 pbr
+cornell 0.591 32 kartrider360
+cornell -0.620 32 kartrider360
+cornell 0.000 33 monydad
+cornell 0.617 34 muerteapablo
+columbia -0.367 34 muerteapablo
+columbia 0.431 34 muerteapablo
+cornell 0.855 35 monydad
+columbia 0.643 35 monydad
+columbia -0.298 36 pbr
+cornell 0.774 36 pbr
+columbia 0.621 37 CayugaRed2005
+cornell 0.000 37 CayugaRed2005
+columbia 0.000 42 gedion9324
+cornell 0.925 42 gedion9324
+cornell 0.000 42 gedion9324
+cornell 0.643 42 gedion9324
+cornell -0.271 43 monydad
+columbia 0.608 43 monydad
+columbia 0.530 43 monydad
+columbia 0.000 47 muerteapablo
+columbia 0.000 48 ChaoticOrder
+cornell 0.000 48 ChaoticOrder
+columbia 0.000 48 ChaoticOrder
+cornell 0.925 48 ChaoticOrder
+cornell 0.000 48 ChaoticOrder
+columbia 0.000 48 ChaoticOrder
+columbia 0.315 49 admissionsgeek
+cornell -0.999 49 admissionsgeek
+cornell -0.359 49 admissionsgeek
+cornell -0.629 50 AstroLion
+columbia -0.504 50 AstroLion
+columbia -0.608 51 gedion9324
+cornell -0.393 52 jamescchen
+columbia -0.331 52 jamescchen
+cornell 0.000 52 jamescchen
+cornell -0.579 52 jamescchen
+cornell -0.830 53 gedion9324
+cornell 0.000 53 gedion9324
+columbia -0.798 54 Colm
+cornell -0.651 55 gedion9324
+cornell -0.839 55 gedion9324
+columbia 0.717 57 Colm
+columbia 0.964 58 gedion9324
+columbia -0.636 59 Colm
+cornell 0.323 59 Colm
+columbia 0.356 60 monydad
+cornell 0.000 60 monydad
+columbia 0.000 60 monydad
+cornell -0.896 61 monydad
+cornell -0.896 61 monydad
+columbia -0.525 62 columbiacornell
+cornell 0.808 62 columbiacornell
+columbia 0.922 65 3togo
+columbia 0.000 66 gedion9324
+cornell 0.000 66 gedion9324
+columbia -0.468 68 confidentialcoll
+cornell 0.836 69 columbiacornell

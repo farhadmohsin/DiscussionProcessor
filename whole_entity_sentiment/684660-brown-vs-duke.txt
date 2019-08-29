@@ -1,70 +1,70 @@
-brown 0.000 1
-brown 0.896 2
-duke -0.920 3
-brown 0.000 4
-brown 0.000 5
-brown 0.470 6
-duke 0.973 7
-brown 0.968 7
-duke 0.000 8
-brown 0.670 8
-brown 0.000 8
-duke 0.797 8
-brown 0.000 8
-brown 0.865 9
-duke 0.923 9
-duke 0.932 10
-brown 0.522 10
-duke 0.405 10
-brown -0.900 11
-duke 0.968 11
-brown 0.703 12
-duke 0.708 12
-duke 0.700 12
-brown -0.557 13
-brown 0.000 14
-duke 0.966 16
-duke 0.680 18
-brown 0.577 18
-duke 0.000 20
-brown 0.000 20
-brown 0.487 21
-duke -0.771 22
-brown 0.396 22
-brown 0.353 23
-duke -0.444 23
-duke 0.000 23
-duke 0.262 23
-duke 0.000 24
-brown 0.000 24
-brown -0.885 25
-brown -0.885 25
-brown 0.778 26
-brown -0.907 27
-brown -0.638 28
-brown -0.644 29
-brown -0.950 30
-brown -0.427 33
-brown -0.747 34
-brown 0.786 35
-brown 0.000 36
-brown 0.000 36
-duke 0.549 44
-brown 0.611 44
-duke -0.372 44
-duke 0.608 45
-duke 0.608 45
-brown -0.773 46
-duke -0.479 50
-brown -0.469 50
-brown -0.326 52
-duke 0.000 52
-brown 0.385 53
-duke 0.000 54
-brown 0.000 54
-brown -0.463 58
-duke 0.000 58
-duke 0.000 58
-brown 0.000 59
-duke 0.000 59
-duke -0.619 59
+brown 0.000 1 knat
+brown 0.896 2 hitsbigshot
+duke -0.920 3 beignet
+brown 0.000 4 dcircle
+brown 0.000 5 redsoxgirl
+brown 0.470 6 IBclass06
+duke 0.973 7 pitofapps
+brown 0.968 7 pitofapps
+duke 0.000 8 MyOpinion
+brown 0.670 8 MyOpinion
+brown 0.000 8 MyOpinion
+duke 0.797 8 MyOpinion
+brown 0.000 8 MyOpinion
+brown 0.865 9 IBclass06
+duke 0.923 9 IBclass06
+duke 0.932 10 BrownBelle
+brown 0.522 10 BrownBelle
+duke 0.405 10 BrownBelle
+brown -0.900 11 IBclass06
+duke 0.968 11 IBclass06
+brown 0.703 12 ring_of_fire
+duke 0.708 12 ring_of_fire
+duke 0.700 12 ring_of_fire
+brown -0.557 13 MyOpinion
+brown 0.000 14 wolfmanjack
+duke 0.966 16 N21116
+duke 0.680 18 IBclass06
+brown 0.577 18 IBclass06
+duke 0.000 20 SeaShepherd2009
+brown 0.000 20 SeaShepherd2009
+brown 0.487 21 vincentvega
+duke -0.771 22 modestmelody
+brown 0.396 22 modestmelody
+brown 0.353 23 jonri
+duke -0.444 23 jonri
+duke 0.000 23 jonri
+duke 0.262 23 jonri
+duke 0.000 24 iamtbh
+brown 0.000 24 iamtbh
+brown -0.885 25 modestmelody
+brown -0.885 25 modestmelody
+brown 0.778 26 iamtbh
+brown -0.907 27 modestmelody
+brown -0.638 28 mgcsinc
+brown -0.644 29 iamtbh
+brown -0.950 30 mgcsinc
+brown -0.427 33 modestmelody
+brown -0.747 34 mgcsinc
+brown 0.786 35 mgcsinc
+brown 0.000 36 iamtbh
+brown 0.000 36 iamtbh
+duke 0.549 44 warblersrule
+brown 0.611 44 warblersrule
+duke -0.372 44 warblersrule
+duke 0.608 45 ava1992
+duke 0.608 45 ava1992
+brown -0.773 46 ava1992
+duke -0.479 50 knat
+brown -0.469 50 knat
+brown -0.326 52 jackpot
+duke 0.000 52 jackpot
+brown 0.385 53 iamtbh
+duke 0.000 54 decanela
+brown 0.000 54 decanela
+brown -0.463 58 danstearns
+duke 0.000 58 danstearns
+duke 0.000 58 danstearns
+brown 0.000 59 warblersrule
+duke 0.000 59 warblersrule
+duke -0.619 59 warblersrule

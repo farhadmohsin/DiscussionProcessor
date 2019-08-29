@@ -1,176 +1,176 @@
-yale 0.362 2
-wharton 0.688 2
-yale 0.277 3
-yale 0.947 4
-yale -0.401 5
-wharton 0.427 5
-wharton 0.594 5
-yale -0.287 7
-wharton -0.549 7
-yale -0.765 8
-yale 0.357 9
-wharton 0.759 9
-yale -0.640 10
-wharton -0.581 11
-yale -0.611 11
-wharton 0.758 12
-yale 0.283 12
-yale 0.729 12
-yale 0.941 12
-wharton 0.778 12
-wharton 0.723 13
-yale 0.723 13
-wharton -0.877 13
-yale -0.870 14
-wharton 0.929 16
-yale 0.000 16
-wharton 0.329 17
-yale -0.812 17
-wharton 0.355 18
-wharton -0.675 19
-yale 0.000 21
-wharton 0.000 21
-yale 0.671 22
-wharton -0.615 23
-wharton 0.000 23
-yale 0.625 24
-wharton 0.827 24
-yale 0.652 25
-yale 0.548 26
-wharton 0.487 26
-wharton -0.736 26
-wharton 0.000 26
-wharton 0.523 26
-yale -0.982 27
-wharton 0.677 28
-yale -0.306 28
-yale -0.877 29
-yale 0.823 30
-yale 0.317 34
-wharton 0.593 34
-wharton 0.557 34
-wharton 0.314 34
-yale 0.717 35
-wharton 0.000 35
-yale 0.442 36
-wharton 0.692 36
-wharton 0.627 36
-yale -0.507 37
-wharton 0.000 38
-yale 0.000 38
-wharton 0.446 40
-yale 0.796 40
-wharton 0.649 40
-yale 0.865 41
-yale -0.727 43
-wharton -0.727 43
-wharton 0.000 44
-yale 0.900 44
-wharton 0.000 44
-yale 0.000 45
-yale 0.000 46
-yale -0.348 50
-wharton 0.369 50
-wharton -0.613 50
-wharton 0.666 51
-yale 0.566 51
-wharton 0.000 52
-wharton 0.847 53
-wharton 0.949 53
-wharton 0.718 54
-yale -0.643 54
-yale 0.834 55
-yale 0.899 55
-wharton 0.899 55
-wharton 0.899 55
-yale 0.660 56
-wharton 0.903 56
-yale 0.903 56
-yale -0.448 57
-yale 0.361 58
-wharton 0.358 58
-yale -0.293 58
-yale 0.000 58
-wharton -0.293 58
-yale 0.513 59
-wharton 0.600 59
-wharton 0.000 59
-wharton -0.723 59
-yale -0.807 60
-wharton 0.367 61
-yale 0.493 61
-wharton 0.913 61
-wharton 0.865 62
-wharton -0.697 62
-wharton 0.000 62
-yale 0.348 63
-wharton 0.705 63
-wharton -0.943 63
-wharton 0.688 63
-wharton 0.952 65
-yale 0.952 65
-yale 0.270 66
-wharton 0.425 66
-wharton -0.366 69
-yale -0.574 71
-wharton -0.849 72
-yale -0.849 72
-wharton 0.000 72
-yale -0.588 73
-wharton 0.826 73
-wharton -0.587 74
-yale 0.424 74
-yale 0.786 76
-wharton 0.000 76
-yale 0.913 77
-wharton -0.956 78
-yale 0.765 79
-wharton 0.505 80
-yale -0.478 80
-wharton 0.000 80
-wharton -0.349 80
-wharton 0.625 80
-yale -0.484 81
-wharton -0.330 81
-yale -0.265 82
-wharton 0.303 82
-yale 0.800 82
-yale 0.346 83
-wharton 0.346 83
-yale 0.637 84
-wharton 0.000 84
-wharton -0.870 85
-yale -0.791 85
-yale 0.000 86
-wharton 0.000 86
-yale 0.000 87
-wharton 0.000 87
-yale -0.265 88
-wharton -0.598 88
-wharton 0.499 88
-wharton 0.848 88
-wharton 0.815 89
-wharton 0.908 89
-yale 0.944 89
-wharton 0.000 90
-yale 0.495 91
-yale 0.316 92
-wharton 0.621 92
-wharton -0.537 94
-yale 0.000 94
-wharton -0.570 95
-yale 0.792 95
-yale 0.000 96
-yale 0.439 97
-wharton -0.560 97
-yale 0.852 97
-yale 0.000 98
-wharton 0.610 98
-wharton 0.000 98
-yale 0.880 100
-wharton -0.817 101
-yale 0.638 102
-wharton 0.374 102
-wharton 0.318 102
-wharton -0.703 102
-wharton 0.322 102
+yale 0.362 2 thatguy100
+wharton 0.688 2 thatguy100
+yale 0.277 3 1a1
+yale 0.947 4 thatguy100
+yale -0.401 5 booyaksha
+wharton 0.427 5 booyaksha
+wharton 0.594 5 booyaksha
+yale -0.287 7 poste3
+wharton -0.549 7 poste3
+yale -0.765 8 poste3
+yale 0.357 9 187
+wharton 0.759 9 187
+yale -0.640 10 poste3
+wharton -0.581 11 booyaksha
+yale -0.611 11 booyaksha
+wharton 0.758 12 mancune
+yale 0.283 12 mancune
+yale 0.729 12 mancune
+yale 0.941 12 mancune
+wharton 0.778 12 mancune
+wharton 0.723 13 Nanquanmikey
+yale 0.723 13 Nanquanmikey
+wharton -0.877 13 Nanquanmikey
+yale -0.870 14 Nanquanmikey
+wharton 0.929 16 poste3
+yale 0.000 16 poste3
+wharton 0.329 17 booyaksha
+yale -0.812 17 booyaksha
+wharton 0.355 18 kafkareborn
+wharton -0.675 19 Z.Exodus2008
+yale 0.000 21 Lergnom
+wharton 0.000 21 Lergnom
+yale 0.671 22 1a1
+wharton -0.615 23 kafkareborn
+wharton 0.000 23 kafkareborn
+yale 0.625 24 An0maly
+wharton 0.827 24 An0maly
+yale 0.652 25 Rtgrove123
+yale 0.548 26 kafkareborn
+wharton 0.487 26 kafkareborn
+wharton -0.736 26 kafkareborn
+wharton 0.000 26 kafkareborn
+wharton 0.523 26 kafkareborn
+yale -0.982 27 1a1
+wharton 0.677 28 kafkareborn
+yale -0.306 28 kafkareborn
+yale -0.877 29 1a1
+yale 0.823 30 Rtgrove123
+yale 0.317 34 MSauce
+wharton 0.593 34 MSauce
+wharton 0.557 34 MSauce
+wharton 0.314 34 MSauce
+yale 0.717 35 poste3
+wharton 0.000 35 poste3
+yale 0.442 36 kafkareborn
+wharton 0.692 36 kafkareborn
+wharton 0.627 36 kafkareborn
+yale -0.507 37 DunninLA
+wharton 0.000 38 Lergnom
+yale 0.000 38 Lergnom
+wharton 0.446 40 kafkareborn
+yale 0.796 40 kafkareborn
+wharton 0.649 40 kafkareborn
+yale 0.865 41 aweirdo
+yale -0.727 43 polyglotmom
+wharton -0.727 43 polyglotmom
+wharton 0.000 44 sjmomof2
+yale 0.900 44 sjmomof2
+wharton 0.000 44 sjmomof2
+yale 0.000 45 1a1
+yale 0.000 46 1a1
+yale -0.348 50 kafkareborn
+wharton 0.369 50 kafkareborn
+wharton -0.613 50 kafkareborn
+wharton 0.666 51 kafkareborn
+yale 0.566 51 kafkareborn
+wharton 0.000 52 1a1
+wharton 0.847 53 kafkareborn
+wharton 0.949 53 kafkareborn
+wharton 0.718 54 An0maly
+yale -0.643 54 An0maly
+yale 0.834 55 mancune
+yale 0.899 55 mancune
+wharton 0.899 55 mancune
+wharton 0.899 55 mancune
+yale 0.660 56 kafkareborn
+wharton 0.903 56 kafkareborn
+yale 0.903 56 kafkareborn
+yale -0.448 57 mancune
+yale 0.361 58 kafkareborn
+wharton 0.358 58 kafkareborn
+yale -0.293 58 kafkareborn
+yale 0.000 58 kafkareborn
+wharton -0.293 58 kafkareborn
+yale 0.513 59 mancune
+wharton 0.600 59 mancune
+wharton 0.000 59 mancune
+wharton -0.723 59 mancune
+yale -0.807 60 1a1
+wharton 0.367 61 kafkareborn
+yale 0.493 61 kafkareborn
+wharton 0.913 61 kafkareborn
+wharton 0.865 62 kafkareborn
+wharton -0.697 62 kafkareborn
+wharton 0.000 62 kafkareborn
+yale 0.348 63 mancune
+wharton 0.705 63 mancune
+wharton -0.943 63 mancune
+wharton 0.688 63 mancune
+wharton 0.952 65 poste3
+yale 0.952 65 poste3
+yale 0.270 66 kafkareborn
+wharton 0.425 66 kafkareborn
+wharton -0.366 69 kafkareborn
+yale -0.574 71 1a1
+wharton -0.849 72 platorepublic
+yale -0.849 72 platorepublic
+wharton 0.000 72 platorepublic
+yale -0.588 73 1a1
+wharton 0.826 73 1a1
+wharton -0.587 74 platorepublic
+yale 0.424 74 platorepublic
+yale 0.786 76 platorepublic
+wharton 0.000 76 platorepublic
+yale 0.913 77 aweirdo
+wharton -0.956 78 platorepublic
+yale 0.765 79 metronycmom
+wharton 0.505 80 platorepublic
+yale -0.478 80 platorepublic
+wharton 0.000 80 platorepublic
+wharton -0.349 80 platorepublic
+wharton 0.625 80 platorepublic
+yale -0.484 81 thatguy100
+wharton -0.330 81 thatguy100
+yale -0.265 82 mancune
+wharton 0.303 82 mancune
+yale 0.800 82 mancune
+yale 0.346 83 poste3
+wharton 0.346 83 poste3
+yale 0.637 84 metronycmom
+wharton 0.000 84 metronycmom
+wharton -0.870 85 disgradius
+yale -0.791 85 disgradius
+yale 0.000 86 1a1
+wharton 0.000 86 1a1
+yale 0.000 87 thatguy100
+wharton 0.000 87 thatguy100
+yale -0.265 88 platorepublic
+wharton -0.598 88 platorepublic
+wharton 0.499 88 platorepublic
+wharton 0.848 88 platorepublic
+wharton 0.815 89 poste3
+wharton 0.908 89 poste3
+yale 0.944 89 poste3
+wharton 0.000 90 1a1
+yale 0.495 91 booyaksha
+yale 0.316 92 MSauce
+wharton 0.621 92 MSauce
+wharton -0.537 94 poste3
+yale 0.000 94 poste3
+wharton -0.570 95 An0maly
+yale 0.792 95 An0maly
+yale 0.000 96 poste3
+yale 0.439 97 cmburns14
+wharton -0.560 97 cmburns14
+yale 0.852 97 cmburns14
+yale 0.000 98 mancune
+wharton 0.610 98 mancune
+wharton 0.000 98 mancune
+yale 0.880 100 MSauce
+wharton -0.817 101 platorepublic
+yale 0.638 102 platorepublic
+wharton 0.374 102 platorepublic
+wharton 0.318 102 platorepublic
+wharton -0.703 102 platorepublic
+wharton 0.322 102 platorepublic

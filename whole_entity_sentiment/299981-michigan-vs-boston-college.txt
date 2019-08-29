@@ -1,206 +1,206 @@
-michigan 0.000 2
-michigan 0.000 3
-boston 0.547 6
-michigan 0.520 6
-michigan 0.576 6
-michigan -0.629 7
-boston 0.832 9
-michigan 0.246 10
-michigan 0.515 11
-michigan 0.000 12
-michigan 0.000 13
-michigan 0.299 15
-boston 0.759 15
-michigan -0.788 17
-michigan 0.489 18
-michigan 0.000 19
-michigan -0.923 19
-michigan -0.362 20
-michigan 0.607 21
-michigan 0.000 22
-michigan 0.466 23
-michigan 0.779 24
-michigan 0.000 25
-michigan 0.000 25
-michigan 0.496 27
-michigan 0.777 28
-michigan -0.382 29
-michigan -0.462 29
-boston 0.000 29
-michigan -0.517 31
-michigan 0.567 32
-boston 0.434 32
-michigan -0.799 34
-michigan 0.722 35
-boston 0.487 35
-michigan 0.536 36
-michigan 0.550 37
-michigan -0.314 38
-boston 0.000 38
-michigan 0.000 40
-michigan -0.352 40
-michigan -0.371 41
-boston 0.712 42
-michigan -0.799 43
-michigan 0.691 44
-boston 0.669 44
-michigan -0.357 45
-michigan -0.380 46
-michigan 0.490 47
-michigan 0.936 48
-michigan 0.380 49
-michigan -0.629 49
-michigan 0.000 50
-michigan -0.750 51
-michigan 0.497 52
-michigan 0.622 53
-michigan 0.000 54
-michigan 0.564 55
-michigan -0.568 56
-michigan 0.340 57
-boston -0.438 57
-michigan 0.000 58
-michigan -0.645 58
-michigan -0.645 58
-michigan 0.611 61
-michigan 0.625 62
-boston 0.434 62
-michigan -0.421 63
-michigan -0.351 64
-michigan 0.000 65
-michigan 0.307 67
-boston -0.585 67
-boston 0.883 67
-michigan 0.482 67
-michigan 0.765 68
-michigan -0.422 69
-michigan -0.885 71
-boston -0.487 72
-michigan -0.487 72
-michigan 0.958 72
-michigan 0.513 73
-michigan 0.000 73
-boston 0.506 73
-michigan -0.274 74
-michigan 0.710 76
-michigan 0.000 77
-michigan 0.471 79
-boston -0.428 79
-michigan -0.854 80
-boston -0.758 81
-michigan -0.667 81
-michigan -0.693 82
-michigan -0.754 83
-michigan 0.000 86
-boston 0.000 86
-michigan -0.475 87
-boston -0.475 87
-michigan 0.556 88
-michigan 0.984 88
-boston 0.000 88
-michigan 0.841 89
-michigan 0.705 91
-michigan -0.610 94
-boston -0.637 94
-michigan 0.000 97
-michigan -0.415 98
-michigan -0.570 100
-boston -0.472 100
-michigan 0.000 101
-michigan -0.743 105
-michigan 0.000 106
-boston -0.736 106
-michigan 0.000 109
-boston 0.705 110
-michigan 0.781 110
-michigan 0.000 112
-michigan -0.854 113
-michigan -0.348 114
-michigan 0.625 115
-michigan 0.840 115
-michigan 0.000 115
-michigan -0.742 116
-michigan 0.998 117
-michigan 0.593 118
-michigan 0.840 118
-michigan 0.000 118
-michigan 0.000 119
-michigan 0.687 119
-michigan 0.000 120
-michigan 0.793 122
-michigan -0.924 127
-michigan 0.576 128
-boston 0.737 128
-michigan 0.265 129
-boston 0.409 129
-michigan 0.000 130
-michigan 0.771 135
-michigan 0.000 136
-michigan -0.495 137
-michigan 0.594 138
-boston 0.000 138
-michigan 0.000 140
-michigan 0.759 141
-boston 0.389 141
-michigan 0.368 142
-boston -0.328 144
-michigan -0.520 144
-michigan 0.434 145
-michigan 0.000 146
-michigan 0.000 147
-michigan 0.554 148
-michigan 0.537 150
-boston -0.629 150
-michigan -0.513 153
-michigan 0.324 154
-michigan -0.416 155
-boston 0.000 158
-michigan 0.608 160
-michigan 0.505 162
-michigan 0.837 164
-michigan 0.000 167
-boston 0.000 167
-michigan 0.841 169
-michigan 0.000 170
-michigan 0.647 171
-michigan 0.647 171
-michigan 0.564 172
-boston -0.407 172
-boston 0.548 172
-michigan -0.335 175
-michigan 0.453 176
-boston -0.401 176
-michigan -0.626 177
-boston 0.000 177
-michigan 0.305 178
-boston 0.000 178
-michigan -0.317 179
-michigan 0.439 180
-michigan 0.879 180
-michigan 0.439 181
-michigan 0.409 184
-boston 0.286 184
-michigan 0.509 185
-michigan -0.470 186
-michigan -0.804 186
-boston 0.942 186
-michigan 0.000 186
-michigan 0.748 187
-michigan 0.603 188
-michigan 0.969 189
-michigan 0.972 189
-michigan 0.662 190
-boston 0.000 190
-michigan 0.000 191
-boston 0.000 191
-michigan 0.588 196
-boston -0.561 201
-michigan -0.538 201
-michigan 0.243 202
-boston 0.856 204
-michigan 0.934 204
-michigan 0.876 204
-michigan 0.000 204
-boston 0.000 204
-boston 0.412 205
-michigan 0.971 206
+michigan 0.000 2 nymets11
+michigan 0.000 3 joev
+boston 0.547 6 hawkette
+michigan 0.520 6 hawkette
+michigan 0.576 6 hawkette
+michigan -0.629 7 adidasjed
+boston 0.832 9 amadsjc
+michigan 0.246 10 WaleedF
+michigan 0.515 11 Pyar
+michigan 0.000 12 ungst
+michigan 0.000 13 Ilovesoftball44
+michigan 0.299 15 TourGuide446
+boston 0.759 15 TourGuide446
+michigan -0.788 17 nefer
+michigan 0.489 18 hawkette
+michigan 0.000 19 ckmets13
+michigan -0.923 19 ckmets13
+michigan -0.362 20 WaleedF
+michigan 0.607 21 ckmets13
+michigan 0.000 22 GoBlue81
+michigan 0.466 23 hawkette
+michigan 0.779 24 GoBlue81
+michigan 0.000 25 arvandm
+michigan 0.000 25 arvandm
+michigan 0.496 27 Sam Lee
+michigan 0.777 28 GoBlue81
+michigan -0.382 29 hawkette
+michigan -0.462 29 hawkette
+boston 0.000 29 hawkette
+michigan -0.517 31 CC Admin
+michigan 0.567 32 hawkette
+boston 0.434 32 hawkette
+michigan -0.799 34 nefer
+michigan 0.722 35 hawkette
+boston 0.487 35 hawkette
+michigan 0.536 36 CC Admin
+michigan 0.550 37 nefer
+michigan -0.314 38 hawkette
+boston 0.000 38 hawkette
+michigan 0.000 40 nefer
+michigan -0.352 40 nefer
+michigan -0.371 41 nefer
+boston 0.712 42 ckmets13
+michigan -0.799 43 Pre-medwannabe
+michigan 0.691 44 hawkette
+boston 0.669 44 hawkette
+michigan -0.357 45 nefer
+michigan -0.380 46 hawkette
+michigan 0.490 47 kazz
+michigan 0.936 48 nefer
+michigan 0.380 49 hawkette
+michigan -0.629 49 hawkette
+michigan 0.000 50 CC Admin
+michigan -0.750 51 hawkette
+michigan 0.497 52 CC Admin
+michigan 0.622 53 nefer
+michigan 0.000 54 nefer
+michigan 0.564 55 Pre-medwannabe
+michigan -0.568 56 Alexandre
+michigan 0.340 57 hawkette
+boston -0.438 57 hawkette
+michigan 0.000 58 CC Admin
+michigan -0.645 58 CC Admin
+michigan -0.645 58 CC Admin
+michigan 0.611 61 hawkette
+michigan 0.625 62 k&amp;s
+boston 0.434 62 k&amp;s
+michigan -0.421 63 ckmets13
+michigan -0.351 64 CC Admin
+michigan 0.000 65 k&amp;s
+michigan 0.307 67 hawkette
+boston -0.585 67 hawkette
+boston 0.883 67 hawkette
+michigan 0.482 67 hawkette
+michigan 0.765 68 CC Admin
+michigan -0.422 69 GoBlue81
+michigan -0.885 71 ckmets13
+boston -0.487 72 CC Admin
+michigan -0.487 72 CC Admin
+michigan 0.958 72 CC Admin
+michigan 0.513 73 hawkette
+michigan 0.000 73 hawkette
+boston 0.506 73 hawkette
+michigan -0.274 74 hawkette
+michigan 0.710 76 CC Admin
+michigan 0.000 77 hawkette
+michigan 0.471 79 hawkette
+boston -0.428 79 hawkette
+michigan -0.854 80 Rabban
+boston -0.758 81 hawkette
+michigan -0.667 81 hawkette
+michigan -0.693 82 ckmets13
+michigan -0.754 83 ckmets13
+michigan 0.000 86 hawkette
+boston 0.000 86 hawkette
+michigan -0.475 87 Tim_ND08
+boston -0.475 87 Tim_ND08
+michigan 0.556 88 Alexandre
+michigan 0.984 88 Alexandre
+boston 0.000 88 Alexandre
+michigan 0.841 89 hawkette
+michigan 0.705 91 hawkette
+michigan -0.610 94 xcjimmy1228
+boston -0.637 94 xcjimmy1228
+michigan 0.000 97 ckmets13
+michigan -0.415 98 ckmets13
+michigan -0.570 100 hawkette
+boston -0.472 100 hawkette
+michigan 0.000 101 barrons
+michigan -0.743 105 hawkette
+michigan 0.000 106 ckmets13
+boston -0.736 106 ckmets13
+michigan 0.000 109 ckmets13
+boston 0.705 110 hawkette
+michigan 0.781 110 hawkette
+michigan 0.000 112 ckmets13
+michigan -0.854 113 barrons
+michigan -0.348 114 kazz
+michigan 0.625 115 Alexandre
+michigan 0.840 115 Alexandre
+michigan 0.000 115 Alexandre
+michigan -0.742 116 Tim_ND08
+michigan 0.998 117 hawkette
+michigan 0.593 118 Rabban
+michigan 0.840 118 Rabban
+michigan 0.000 118 Rabban
+michigan 0.000 119 Alexandre
+michigan 0.687 119 Alexandre
+michigan 0.000 120 ckmets13
+michigan 0.793 122 GoBlue81
+michigan -0.924 127 GoBlue81
+michigan 0.576 128 hawkette
+boston 0.737 128 hawkette
+michigan 0.265 129 hawkette
+boston 0.409 129 hawkette
+michigan 0.000 130 ckmets13
+michigan 0.771 135 GoBlue81
+michigan 0.000 136 GoBlue81
+michigan -0.495 137 ckmets13
+michigan 0.594 138 hawkette
+boston 0.000 138 hawkette
+michigan 0.000 140 Rabban
+michigan 0.759 141 GoBlue81
+boston 0.389 141 GoBlue81
+michigan 0.368 142 GoBlue81
+boston -0.328 144 hawkette
+michigan -0.520 144 hawkette
+michigan 0.434 145 GoBlue81
+michigan 0.000 146 hawkette
+michigan 0.000 147 hawkette
+michigan 0.554 148 GoBlue81
+michigan 0.537 150 hawkette
+boston -0.629 150 hawkette
+michigan -0.513 153 hawkette
+michigan 0.324 154 CC Admin
+michigan -0.416 155 k&amp;s
+boston 0.000 158 k&amp;s
+michigan 0.608 160 hawkette
+michigan 0.505 162 CC Admin
+michigan 0.837 164 hawkette
+michigan 0.000 167 collegebound_07
+boston 0.000 167 collegebound_07
+michigan 0.841 169 Alexandre
+michigan 0.000 170 Alexandre
+michigan 0.647 171 CC Admin
+michigan 0.647 171 CC Admin
+michigan 0.564 172 hawkette
+boston -0.407 172 hawkette
+boston 0.548 172 hawkette
+michigan -0.335 175 Alexandre
+michigan 0.453 176 willmingtonwave
+boston -0.401 176 willmingtonwave
+michigan -0.626 177 Alexandre
+boston 0.000 177 Alexandre
+michigan 0.305 178 hawkette
+boston 0.000 178 hawkette
+michigan -0.317 179 hawkette
+michigan 0.439 180 Alexandre
+michigan 0.879 180 Alexandre
+michigan 0.439 181 Alexandre
+michigan 0.409 184 hawkette
+boston 0.286 184 hawkette
+michigan 0.509 185 Alexandre
+michigan -0.470 186 hawkette
+michigan -0.804 186 hawkette
+boston 0.942 186 hawkette
+michigan 0.000 186 hawkette
+michigan 0.748 187 UCLAri
+michigan 0.603 188 Alexandre
+michigan 0.969 189 willmingtonwave
+michigan 0.972 189 willmingtonwave
+michigan 0.662 190 GoBlue81
+boston 0.000 190 GoBlue81
+michigan 0.000 191 GoBlue81
+boston 0.000 191 GoBlue81
+michigan 0.588 196 Alexandre
+boston -0.561 201 willmingtonwave
+michigan -0.538 201 willmingtonwave
+michigan 0.243 202 Alexandre
+boston 0.856 204 hawkette
+michigan 0.934 204 hawkette
+michigan 0.876 204 hawkette
+michigan 0.000 204 hawkette
+boston 0.000 204 hawkette
+boston 0.412 205 hoedown
+michigan 0.971 206 hawkette

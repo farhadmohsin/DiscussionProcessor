@@ -63,7 +63,7 @@ def output_general_entity_sentiment(output_path, whole_alter_data):
     output_file = open(output_path, "w")
 
     # go through all data and save in output_file
-    for alter, sentiment, order in whole_alter_data:
-        output_file.write("{} {:.3f} {}\n".format(alter, sentiment, order))
+    for alter, sentiment, order, user_id in whole_alter_data:
+        output_file.write("{} {:.3f} {} {}\n".format(alter, sentiment, order, user_id))
 
     output_file.close()
