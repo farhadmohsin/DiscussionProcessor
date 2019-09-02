@@ -12,7 +12,7 @@ def process_entity_data(entity_file_path):
         datum = line.rstrip().lstrip().split(" ")
         alternative = datum[0]
         sentiment = datum[1]
-        order = datum[2]
+        order = datum[3]
         if alternative in data_dict:
             data_dict[alternative][0].append(float(sentiment))
             data_dict[alternative][1].append(int(order))
@@ -49,12 +49,12 @@ def gen_scatter_graph_entity_sentiment_data(data_filepath, filename):
                       yaxis_zeroline=False, xaxis_zeroline=False)
 
     filename = filename.replace("txt", "png")
-    fig.write_image("statgraph/individ_entity_sentiment/{}".format(filename))
+    fig.write_image("statgraph/whole_entity_sentiment/{}".format(filename))
 
 
 def main():
     # go through every txt file in the target data folder
-    discussion_folder_path = "individ_entity_sentiment\*.txt"
+    discussion_folder_path = "whole_entity_sentiment\*.txt"
     for file_path in glob(discussion_folder_path):
 
         # get file name and alternative name from data

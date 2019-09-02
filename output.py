@@ -42,7 +42,7 @@ def output_individual_entity_sentiment(output_path, ind_alter_data):
                 output_file.write(" \t")
             for data in output_data[i]:
                 if j < len(data):
-                    output_file.write("{:<10.3f}".format(data[j]))
+                    output_file.write("{:<10s}".format(data[j]))
                 else:
                     output_file.write("{:<10s}".format("/"))
             output_file.write("\n")
@@ -64,6 +64,6 @@ def output_general_entity_sentiment(output_path, whole_alter_data):
 
     # go through all data and save in output_file
     for alter, sentiment, order, user_id in whole_alter_data:
-        output_file.write("{} {:.3f} {} {}\n".format(alter, sentiment, order, user_id))
+        output_file.write("{} {}{} {}\n".format(alter, sentiment, order, user_id))
 
     output_file.close()

@@ -63,13 +63,18 @@ def generate_most_chuck_entity_sentiment(alternatives, filename, chuck_container
     # set up entity sentiment for most-chucks user
     for i in progressbar(range(len(user_most_chucks))):
         chuck = user_most_chucks[i]
-        chuck.gen_entity_sentiment()
+        chuck.gen_google_entity_sentiment()
 
     # tide up all entity sentiments
     # collect sentiment in all message of one user in a discussion
     for chuck in user_most_chucks:
 
-        for entity, sentiment in chuck.entity_sentiment_list:
+        for entity, sentiment_data in chuck.entity_sentiment_list:
+            # format the potential sentiment data in the sentiment list
+            sentiment = ""
+            for sentiment_datum in sentiment_data:
+                sentiment += "{:.3f} ".format(sentiment_datum)
+
             if similar_entity_recognition(entity, alternative_one):
                 alter_datum = (alternative_one, sentiment, chuck.order, chuck.user_id)
                 individ_alter_data.append(alter_datum)
@@ -86,7 +91,7 @@ def generate_whole_entity_sentiment(alternatives, filename, chuck_container):
     # set up entity sentiment for each chuck
     for i in progressbar(range(len(chuck_container))):
         chuck = chuck_container[i]
-        chuck.gen_entity_sentiment()
+        chuck.gen_google_entity_sentiment()
 
     alternative_one = alternatives[0]
     alternative_two = alternatives[1]
@@ -95,7 +100,13 @@ def generate_whole_entity_sentiment(alternatives, filename, chuck_container):
 
     for chuck in chuck_container:
         # go through all entity sentiment in one discussion chuck
-        for entity, sentiment in chuck.entity_sentiment_list:
+        for entity, sentiment_data in chuck.entity_sentiment_list:
+
+            # format the potential sentiment data in the sentiment list
+            sentiment = ""
+            for sentiment_datum in sentiment_data:
+                sentiment += "{:.3f} ".format(sentiment_datum)
+
             # identify the entity text as alternative and save the sentiment and its order
             # also includes the name of discussion chuck
             if similar_entity_recognition(entity, alternative_one):

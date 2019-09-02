@@ -1,0 +1,139 @@
+harvard 0.500 0.500 1 dark ninja
+harvard -0.100 0.200 6 Phead128
+harvard 0.200 1.100 9 dark ninja
+berkeley 0.800 0.800 11 DunninLA
+harvard 0.200 0.200 15 Bescraze
+berkeley 0.100 0.100 16 noobcake
+harvard 0.100 0.100 17 Saxonthebeach6
+berkeley 0.100 0.100 17 Saxonthebeach6
+berkeley 0.100 3.100 20 rftd
+harvard 0.200 3.200 20 rftd
+harvard 0.300 0.300 21 rftd
+harvard 0.700 1.500 22 rjkofnovi
+berkeley 0.200 0.600 24 DunninLA
+harvard 0.700 0.700 26 dark ninja
+berkeley -0.300 0.600 27 danielhstennis08
+harvard 0.300 1.300 27 danielhstennis08
+berkeley 0.100 0.100 27 danielhstennis08
+harvard 0.100 0.200 28 DunninLA
+harvard 0.200 0.200 33 hampster
+berkeley 0.100 0.600 34 DunninLA
+berkeley -0.100 0.100 34 DunninLA
+harvard 0.100 1.300 35 rftd
+harvard -0.100 0.100 43 dark ninja
+harvard -0.100 0.100 45 Bescraze
+harvard -0.100 1.500 50 vc08
+berkeley 0.100 1.200 50 vc08
+berkeley -0.100 0.100 52 flyzeggs
+berkeley -0.100 0.100 58 CWalker
+berkeley 0.100 0.100 61 katliamom
+harvard -0.300 0.300 63 COlsen573
+berkeley -0.900 0.900 63 COlsen573
+berkeley -0.900 0.900 63 COlsen573
+harvard -0.900 0.900 64 itsthemendy16
+harvard 0.100 0.900 65 juillet
+berkeley 0.100 0.800 65 juillet
+harvard 0.200 1.700 68 Firecube2426
+harvard 0.200 3.200 75 DunninLA
+berkeley -0.200 1.100 75 DunninLA
+berkeley -0.100 0.100 77 flyzeggs
+harvard -0.100 1.300 78 CWalker
+harvard -0.200 0.200 79 CWalker
+berkeley -0.100 0.100 80 kyledavid80
+harvard 0.200 0.200 81 flyzeggs
+harvard -0.600 0.600 88 Tyler09
+harvard 0.300 0.300 89 danielhstennis08
+berkeley -0.600 0.600 91 danielhstennis08
+berkeley -0.700 0.700 94 kyledavid80
+harvard -0.100 0.200 94 kyledavid80
+harvard 0.100 0.100 98 kyledavid80
+harvard -0.100 0.300 99 danielhstennis08
+berkeley 0.200 0.200 100 danielhstennis08
+berkeley -0.900 0.900 100 danielhstennis08
+berkeley 0.200 0.200 101 UCBChemEGrad
+harvard 0.100 0.400 104 danielhstennis08
+berkeley 0.700 0.700 104 danielhstennis08
+berkeley 0.100 0.100 104 danielhstennis08
+berkeley 0.700 0.700 106 UCBChemEGrad
+harvard -0.100 1.000 106 UCBChemEGrad
+berkeley 0.700 0.700 106 UCBChemEGrad
+harvard -0.200 1.700 107 kyledavid80
+berkeley 0.300 3.000 111 flyzeggs
+harvard -0.300 0.700 111 flyzeggs
+berkeley -0.100 1.900 112 Bacchanalia
+harvard -0.600 0.600 113 CWalker
+berkeley 0.400 0.400 113 CWalker
+berkeley -0.200 0.200 114 Brown man1987
+berkeley -0.200 0.200 116 UCBChemEGrad
+berkeley 0.100 0.100 119 kyledavid80
+harvard -0.100 0.100 121 Bescraze
+berkeley -0.100 3.000 122 Brown man1987
+harvard 0.500 3.000 122 Brown man1987
+berkeley -0.200 4.100 124 kyledavid80
+berkeley 0.100 0.300 125 Bacchanalia
+berkeley -0.100 2.000 126 Brown man1987
+berkeley 0.400 0.900 127 Bacchanalia
+harvard -0.100 0.100 127 Bacchanalia
+berkeley 0.200 0.200 129 sofla951
+berkeley -0.700 0.700 130 dark ninja
+harvard -0.100 0.100 132 CalBear2009
+berkeley -0.100 0.100 132 CalBear2009
+berkeley 0.100 0.100 135 Bescraze
+harvard 0.400 0.400 135 Bescraze
+berkeley -0.100 2.000 138 z-score
+berkeley 0.100 0.100 144 Techie1988
+berkeley -0.300 0.700 146 Techie1988
+berkeley 0.100 0.200 148 UCBChemEGrad
+berkeley 0.100 0.100 149 z7xfla
+berkeley -0.200 0.200 152 kyledavid80
+harvard -0.100 0.100 153 rd31
+harvard 0.700 0.700 156 COlsen573
+berkeley -0.500 0.500 158 DunninLA
+berkeley -0.400 0.800 159 Bescraze
+harvard -0.100 0.100 160 kwu
+berkeley 0.100 0.100 164 kingofqueens
+berkeley 0.500 1.700 165 Bescraze
+berkeley -0.200 0.200 167 Bourne
+berkeley 0.200 0.400 168 Techie1988
+berkeley -0.200 0.200 169 Techie1988
+berkeley 0.500 1.600 170 vc08
+harvard -0.200 0.400 171 S Luka Lawrence
+harvard 0.300 1.000 172 Brown man1987
+harvard 0.900 0.900 173 Brown man1987
+harvard -0.800 0.800 174 Bescraze
+harvard -0.200 2.400 175 rd31
+berkeley 0.200 0.200 177 swimguy112
+harvard 0.100 0.100 177 swimguy112
+harvard -0.100 0.400 178 Bescraze
+berkeley 0.300 0.300 181 swimguy112
+berkeley 0.100 0.100 184 Bescraze
+berkeley 0.900 0.900 192 kyledavid80
+berkeley 0.100 0.300 195 Bourne
+berkeley 0.100 0.700 197 kyledavid80
+harvard -0.100 0.200 200 Bourne
+harvard -0.100 0.100 201 Brown man1987
+berkeley -0.200 0.200 204 Bourne
+harvard -0.100 0.100 206 kyledavid80
+berkeley 0.500 0.500 208 Bourne
+berkeley 0.200 0.200 216 cookiemon90
+berkeley 0.200 0.200 216 cookiemon90
+berkeley 0.100 0.100 219 Bescraze
+berkeley -0.700 0.700 220 Bescraze
+berkeley -0.500 0.500 221 kyledavid80
+harvard 0.700 0.700 224 d_galin09
+berkeley 0.200 0.200 224 d_galin09
+berkeley 0.100 0.100 225 Nesquik
+berkeley -0.100 0.100 226 Brown man1987
+harvard 0.300 0.600 229 Brown man1987
+harvard -0.200 0.200 234 Bescraze
+harvard -0.100 0.300 236 Brown man1987
+berkeley 0.200 0.200 237 hawkette
+harvard -0.100 0.100 240 Bescraze
+harvard 0.100 0.100 242 Phead128
+berkeley -0.100 0.100 247 katliamom
+berkeley -0.100 0.100 248 seangrusd
+harvard -0.200 2.600 249 everary
+berkeley -0.200 0.800 253 TheSaiyans666
+berkeley -0.700 1.500 255 $KingsElite$
+berkeley -0.400 0.900 255 $KingsElite$
+harvard 0.200 0.700 255 $KingsElite$

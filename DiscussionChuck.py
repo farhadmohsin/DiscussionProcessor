@@ -1,6 +1,7 @@
 import re
 import six
 import time
+import sys
 
 from google.cloud import language
 from google.cloud.language import enums
@@ -14,10 +15,10 @@ It includes message ordering, sentiment analyze and so on
 
 """
 
-# set up google client
+# set up Data from Google NLP client
 google_client = language.LanguageServiceClient()
 
-# set up watson client
+# set up Data from Watson NLP client
 watson_api = "RY0bRjK8iWHf8SzMlSk0DJwMNm6chVLy_GdVAch9klRt"
 service = NaturalLanguageUnderstandingV1(
     version='2019-07-12',
@@ -25,8 +26,10 @@ service = NaturalLanguageUnderstandingV1(
     url='https://gateway.watsonplatform.net/natural-language-understanding/api'
 )
 
+
 # @param text
 # @return a list of entities with salience score, [(entity name, entity salience score)...]
+# I only take the overall entity sentiment and ignore the mention entity of a single word
 def google_entity_extraction(text):
     # decode utf-8 format
     if isinstance(text, six.binary_type):
@@ -36,15 +39,20 @@ def google_entity_extraction(text):
     document = types.Document(
         content=text,
         type=enums.Document.Type.PLAIN_TEXT)
-    entities = google_client.analyze_entities(document).entities
+    result = google_client.analyze_entity_sentiment(document)
 
+    entities_list = list()
+    for entity in result.entities:
+        if "score" in str(entity.sentiment):
+            datum = list()
+            datum.append(entity.name)
+            datum.append(entity.sentiment.score)
+            datum.append(entity.sentiment.magnitude)
+            entities_list.append(datum)
 
-    # save output
-    entity_list = list()
+    return entities_list
 
-    return entity_list
-
-# watson nlp
+# Data from Watson NLP nlp
 def watson_entity_extraction(text):
     response = None
     while response is None:
@@ -76,7 +84,7 @@ class DiscussionChuck:
     # Watson NLP Mode
     # @param keep_quote True or False
     # @param keep_link True or False
-    def gen_entity_sentiment(self, keep_quote=True, keep_link=True):
+    def gen_watson_entity_sentiment(self, keep_quote=True, keep_link=True):
         _message = self.message
         if not keep_quote:
             quote_pattern = re.compile(r'.*?(<quote>.*?</quote>).*?')
@@ -93,8 +101,30 @@ class DiscussionChuck:
         sentiment_result = watson_entity_extraction(_message)
 
         all_entities = sentiment_result['entities']
-        self.entity_sentiment_list = [(entity['text'], entity['sentiment']['score']) for entity in all_entities]
+        self.entity_sentiment_list = [(entity['text'], [entity['sentiment']['score']]) for entity in all_entities]
 
+    # generate entity sentiment
+    # Google NLP Mode
+    # @param keep_quote True or False
+    # @param keep_link True or False
+    def gen_google_entity_sentiment(self, keep_quote=True, keep_link=True):
+        _message = self.message
+        if not keep_quote:
+            quote_pattern = re.compile(r'.*?(<quote>.*?</quote>).*?')
+            all_quotes = re.findall(quote_pattern, _message)
+            for quote in all_quotes:
+                _message = _message.replace(quote, "")
+
+        if not keep_link:
+            link_pattern = re.compile(r'.*?(<url>.*?</url>).*?')
+            all_links = re.findall(link_pattern, _message)
+            for link in all_links:
+                _message = _message.replace(link, "")
+
+        all_entities = google_entity_extraction(_message)
+
+
+        self.entity_sentiment_list = [(entity[0], [entity[1], entity[2]]) for entity in all_entities]
 
 
 # one discussion that contains multiple messages
