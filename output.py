@@ -67,3 +67,5 @@ def output_general_entity_sentiment(output_path, whole_alter_data):
         output_file.write("{} {}{} {}\n".format(alter, sentiment, order, user_id))
 
     output_file.close()
+
+

@@ -4,6 +4,7 @@ from output import *
 from progressbar import progressbar
 import re
 from glob import glob
+import json
 
 
 # Discussion TXT File Processor for the format of <<<user id>>> and message
@@ -119,6 +120,25 @@ def generate_whole_entity_sentiment(alternatives, filename, chuck_container):
     output_general_entity_sentiment("whole_entity_sentiment/{}".format(filename), whole_alter_data)
 
 
+# generate all sentiment data in a json output
+# {"1": chuck data, "2": chuck data, .....}
+# "1", "2" represents message index in one discussion
+def generate_all_sentiment(output_filename, chuck_container):
+    data = dict()
+    # set up all sentiment for each chuck
+    for i in progressbar(range(len(chuck_container))):
+        chuck = chuck_container[i]
+        chuck.gen_google_all_data()
+
+    data["length"] = len(chuck_container)
+    for i in range(len(chuck_container)):
+        data[str(i+1)] = chuck_container[i].whole_sentiment_data
+
+    output_filename = "all_sentiment_data/{}".format(output_filename)
+    with open(output_filename, "w") as output_file:
+        json.dump(data, output_file)
+
+
 def main():
     # go through every txt file in the target data folder
     discussion_folder_path = "data\CollegeConfidential\*.txt"
@@ -135,11 +155,20 @@ def main():
         generate_whole_entity_sentiment(alternatives, file_name, chuck_container)
 
 
+def main_all_sentiment_data():
+    # go through every txt file in the target data folder
+    discussion_folder_path = "data\CollegeConfidential\*.txt"
+    for file_path in glob(discussion_folder_path):
+        # generate chuck container for data
+        chuck_container = discussionFileProcessor(file_path)
 
+        # json file output
+        output_file_name = file_path.split("\\")[2].replace(".txt", ".json")
 
+        generate_all_sentiment(output_file_name, chuck_container)
 
 
 if __name__ == '__main__':
-    main()
+    main_all_sentiment_data()
 
 
