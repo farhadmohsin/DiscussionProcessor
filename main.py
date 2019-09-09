@@ -86,6 +86,7 @@ def generate_most_chuck_entity_sentiment(alternatives, filename, chuck_container
     userid = user_most_chucks[0].user_id
     output_general_entity_sentiment("individ_entity_sentiment/{}-{}".format(userid, filename), individ_alter_data)
 
+
 # generate individual Entity Sentiment Output of the most-chucks user
 def generate_whole_entity_sentiment(alternatives, filename, chuck_container):
 
@@ -152,7 +153,7 @@ def main():
         alternatives = (datum[1], datum[3].replace(".txt", ""))
 
         # do the entity job and save result
-        generate_whole_entity_sentiment(alternatives, file_name, chuck_container)
+        generate_most_chuck_entity_sentiment(alternatives, file_name, chuck_container)
 
 
 def main_all_sentiment_data():
@@ -169,6 +170,6 @@ def main_all_sentiment_data():
 
 
 if __name__ == '__main__':
-    main_all_sentiment_data()
+    main()
 
 

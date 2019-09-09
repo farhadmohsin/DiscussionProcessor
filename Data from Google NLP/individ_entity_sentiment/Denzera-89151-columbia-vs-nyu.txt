@@ -1,0 +1,13 @@
+columbia -0.200 0.500 80 Denzera
+columbia -0.200 0.200 94 Denzera
+columbia -0.100 0.200 137 Denzera
+columbia -0.800 0.800 137 Denzera
+columbia -0.100 0.100 143 Denzera
+columbia 0.500 0.500 161 Denzera
+nyu -0.100 0.100 167 Denzera
+columbia -0.100 0.100 172 Denzera
+nyu -0.100 0.200 186 Denzera
+columbia 0.600 0.600 186 Denzera
+columbia 0.400 0.400 190 Denzera
+columbia 0.200 1.300 193 Denzera
+nyu -0.200 0.500 193 Denzera

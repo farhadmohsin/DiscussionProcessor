@@ -1,0 +1,4 @@
+brown -0.100 1.200 26 iamtbh
+brown -0.200 2.200 29 iamtbh
+brown 0.100 0.200 36 iamtbh
+duke 0.100 0.100 53 iamtbh

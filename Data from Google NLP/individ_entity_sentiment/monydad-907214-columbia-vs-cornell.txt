@@ -1,0 +1,6 @@
+columbia -0.800 0.800 16 monydad
+cornell 0.200 0.500 35 monydad
+cornell 0.100 0.900 43 monydad
+columbia -0.100 0.100 43 monydad
+columbia 0.200 0.900 43 monydad
+columbia -0.100 0.100 60 monydad

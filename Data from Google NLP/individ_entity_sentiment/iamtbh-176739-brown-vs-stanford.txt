@@ -1,0 +1,11 @@
+brown -0.400 0.900 41 iamtbh
+brown 0.200 0.200 42 iamtbh
+stanford -0.100 0.600 46 iamtbh
+brown 0.100 0.100 46 iamtbh
+brown -0.100 0.100 48 iamtbh
+brown 0.100 0.200 57 iamtbh
+brown -0.200 0.200 57 iamtbh
+brown -0.100 0.100 57 iamtbh
+brown 0.100 0.100 65 iamtbh
+brown -0.700 0.700 86 iamtbh
+brown -0.100 0.100 88 iamtbh

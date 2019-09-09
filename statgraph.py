@@ -49,12 +49,12 @@ def gen_scatter_graph_entity_sentiment_data(data_filepath, filename):
                       yaxis_zeroline=False, xaxis_zeroline=False)
 
     filename = filename.replace("txt", "png")
-    fig.write_image("statgraph/whole_entity_sentiment/{}".format(filename))
+    fig.write_image("statgraph/individ_entity_sentiment/{}".format(filename))
 
 
 def main():
     # go through every txt file in the target data folder
-    discussion_folder_path = "whole_entity_sentiment\*.txt"
+    discussion_folder_path = "individ_entity_sentiment\*.txt"
     for file_path in glob(discussion_folder_path):
 
         # get file name and alternative name from data

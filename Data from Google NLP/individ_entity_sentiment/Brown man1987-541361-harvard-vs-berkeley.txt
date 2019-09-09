@@ -1,0 +1,10 @@
+berkeley -0.200 0.200 114 Brown man1987
+berkeley -0.100 3.000 122 Brown man1987
+harvard 0.500 3.000 122 Brown man1987
+berkeley -0.100 2.000 126 Brown man1987
+harvard 0.300 1.000 172 Brown man1987
+harvard 0.900 0.900 173 Brown man1987
+harvard -0.100 0.100 201 Brown man1987
+berkeley -0.100 0.100 226 Brown man1987
+harvard 0.300 0.600 229 Brown man1987
+harvard -0.100 0.300 236 Brown man1987

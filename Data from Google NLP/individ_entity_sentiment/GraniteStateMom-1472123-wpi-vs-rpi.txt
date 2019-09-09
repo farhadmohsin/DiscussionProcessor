@@ -1,0 +1,7 @@
+rpi 0.100 1.600 8 GraniteStateMom
+rpi 0.200 0.200 8 GraniteStateMom
+wpi -0.100 0.100 18 GraniteStateMom
+rpi 0.300 1.200 35 GraniteStateMom
+wpi 0.300 0.900 41 GraniteStateMom
+rpi 0.400 1.300 41 GraniteStateMom
+rpi -0.200 0.400 53 GraniteStateMom
