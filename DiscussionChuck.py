@@ -88,7 +88,10 @@ def google_entity_extraction_detailed(text):
         content=text,
         type=enums.Document.Type.PLAIN_TEXT,
         language="en")
-    result = google_client.analyze_entity_sentiment(document)
+
+    encoding_type = enums.EncodingType.UTF8
+
+    result = google_client.analyze_entity_sentiment(document, encoding_type=encoding_type)
 
     for entity in result.entities:
         entity_dict = dict()

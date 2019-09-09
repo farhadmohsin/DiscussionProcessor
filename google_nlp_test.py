@@ -1,5 +1,5 @@
 import six
-from google.cloud import language
+from google.cloud import language_v1
 from google.cloud.language import enums
 from google.cloud.language import types
 import json
@@ -19,7 +19,7 @@ My main focus was on the research opportunities. Thus, Caltech is the school tha
 Remember, this is just my opinion. I would love to see a debate of this topic, namely from Engineering students of both schools, who could give us firsthand experience of their majors.
     '''
 
-client = language.LanguageServiceClient()
+client = language_v1.LanguageServiceClient()
 
 if isinstance(text, six.binary_type):
     text = text.decode('utf-8')
@@ -28,19 +28,46 @@ sentence_data_list = list()
 
 document = types.Document(
     content=text.encode('utf-8'),
-    type=enums.Document.Type.PLAIN_TEXT,
-    language="en")
+    type=enums.Document.Type.PLAIN_TEXT)
 
-result = client.analyze_sentiment(document)
+encoding_type = enums.EncodingType.UTF8
 
-document_score = result.document_sentiment.score
-document_magnitude = result.document_sentiment.magnitude
+result = client.analyze_entity_sentiment(document, encoding_type=encoding_type)
 
-for sentence in result.sentences:
-    sentence_dict = dict()
-    sentence_dict["content"] = sentence.text.content
-    sentence_dict["score"] = sentence.sentiment.score
-    sentence_dict["magnitude"] = sentence.sentiment.magnitude
-    sentence_data_list.append(sentence_dict)
-print(json.dumps(sentence_data_list, sort_keys=True, indent=4))
+entity_data_list = list()
 
+for entity in result.entities:
+    entity_dict = dict()
+    entity_dict["name"] = entity.name
+    entity_dict["mentions"] = list()
+    for mention in entity.mentions:
+        mention_dict = dict()
+        mention_dict["content"] = mention.text.content
+        mention_dict["order"] = mention.text.begin_offset
+        print(mention)
+        mention_dict["magnitude"] = mention.sentiment.magnitude
+        mention_dict["score"] = mention.sentiment.score
+        entity_dict["mentions"].append(mention_dict)
+    entity_dict["salience"] = entity.salience
+    if "score" in str(entity.sentiment):
+        entity_dict["magnitude"] = entity.sentiment.magnitude
+        entity_dict["score"] = entity.sentiment.score
+    else:
+        entity_dict["magnitude"] = None
+        entity_dict["score"] = None
+
+    entity_data_list.append(entity_dict)
+
+# normalize the order number in the mentions
+all_orders = list()
+for entity in entity_data_list:
+    all_orders += [mention["order"] for mention in entity["mentions"]]
+# sort order(originally offset) and put it back
+all_orders = sorted(all_orders)
+print(all_orders)
+for i in range(len(entity_data_list)):
+    for j in range(len(entity_data_list[i]["mentions"])):
+        off_set_order = entity_data_list[i]["mentions"][j]["order"]
+        entity_data_list[i]["mentions"][j]["order"] = all_orders.index(off_set_order) + 1
+
+#print(json.dumps(entity_data_list, sort_keys=True, indent=4))
