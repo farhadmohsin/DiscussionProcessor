@@ -1,0 +1,184 @@
+<<<Lei Luo>>>
+Let's start
+I personally want to state that C++ is the best option compared to any other language we are listing here.
+
+<<<Farhad Mohsin>>>
+I think Python is always a good option as a first language. I remember thinking "this is almost English", and for someone young, that could give a fast learning rate.
+
+<<<reed>>>
+Yeah python is the most chosen languages compared to others for the newcomers
+
+<<<Rohit Vaish>>>
+I have used all five languages at various points. I feel that Matlab is the easiest to get started.
+But it is much slower in comparison.
+
+<<<reed>>>
+Also if someone needs a better understanding of the logic and semantics of programming, Java is also a good option
+
+<<<Farhad Mohsin>>>
+Matlab is easy as well, I agree. One good thing for Matlab was the vast library and the really good documentation it comes with.
+
+
+<<<Rohit Vaish>>>
+Also, a Matlab license costs money unless one is at a university.
+
+<<<Lei Luo>>>
+For the short term learning a tool, Python is a good language. However, in the long term of prototyping research, especially related to memory and time complexity, python provide less controls compared to C++, C and Java
+
+<<<Farhad Mohsin>>>
+Prototyping essentially says that you are thinking of short term though
+
+<<<Lei Luo>>>
+I do not think Matlab is a programming language. It is hard for me to organize my scopes while using Matlab.
+
+<<<reed>>>
+Matlab is more like a tool for specific needs.
+
+<<<Farhad Mohsin>>>
+That might be because you started Matlab after you had learnt other language. While my personal choice is Python, I am yet to find a particular work that could not be done with Matlab. It has tools for everything.
+
+<<<Lei Luo>>>
+Why do no think prototyping is limited to a short-term prototyping? @Farhad Mohsin What if the project is immense and needs a lot of collaboration on it?
+
+<<<Farhad Mohsin>>>
+I think we're diverging on word meanings. Python is great for prototyping, because it's faster to write code and test ideas.
+
+<<<Rohit Vaish>>>
+Projects of that scale are a rare occurrence during freshman research. :slightly_smiling_face:
+
+<<<reed>>>
+I agree
+
+<<<Farhad Mohsin>>>
+Even for "immense projects", particularly for highschool kids, I would not say "scale" is a very important choice
+
+<<<Lei Luo>>>
+Lirong's daughter might be a genius. We have to admit that. (edited)
+
+<<<Rohit Vaish>>>
+A more concrete question could be the following: Which is the best language for machine learning/optimization research?
+Or, which language would one use to create a platform like OPRA?
+
+<<<Farhad Mohsin>>>
+I feel like that's beside the point. Even for a genius it would take much longer to write a code for matrix multiplication in C rather than Python.
+
+<<<Lei Luo>>>
+Nope, I do not think we should think too intense into one field.
+There are a lot of other fields requires programming languages, not even just talking about Computer Science
+
+<<<Rohit Vaish>>>
+Every language has its pros and cons. So, in order to come up with a ranking, I need to think from the standpoint of the fields of science that I am familiar with.
+
+<<<Lei Luo>>>
+C++ is much better than C because it provides a lot of libraries and still retains a good feature of C, such as pointers and memory controlling
+
+<<<reed>>>
+I don't think a research in freshman year will be that hard, python/Matlab should be enough
+
+<<<Farhad Mohsin>>>
+I think I agree with this comparison, that C++ is better than C
+But still would maintain that Python or Matlab would give more flexibility than either of them
+
+<<<Lei Luo>>>
+If someone just learn Python in his/her freshman year, he/she might be so obsessed with it that he/she might be willing to learn other languages. I think starting from a basic, fundamental language is very necessary. (edited)
+
+<<<Farhad Mohsin>>>
+But they are doing it for a research project, right?
+If it needs data analysis, python is quicker than C
+
+<<<Lei Luo>>>
+And he/she can use it for research as well as a way to practice
+
+<<<Rohit Vaish>>>
+We could compare languages in terms of:
+--ease of learning
+--speed of computation
+--libraries
+--active development and support community
+--memory requirements
+
+<<<Farhad Mohsin>>>
+If it needs creating a webpage, python is quicker than C
+
+<<<Lei Luo>>>
+One stone to kill two birds
+
+<<<Farhad Mohsin>>>
+That probably gives another problem, Rohit. How do we rank the comparison conditions themselves? Does a easy language triumph over a speedy language?
+
+<<<Rohit Vaish>>>
+For the kind of stuff that I did in my freshman year, I found ease of learning and speed of computation to the most important factors. So, my ranking would be: Matlab > Python > {C,C++} > Java
+
+<<<reed>>>
+So Lei, which language you choose in terms of practice
+
+<<<Rohit Vaish>>>
+Right, there is no way to "rank" the factors. There are merely way to think about one's own preferences.
+ways*
+
+<<<Lei Luo>>>
+@Farhad Mohsin Using your example of creating a webpage, python is a worse example because a lot of its libraries are packaged. If someone goes wrong with a minimal configuration in Python,  it was much harder to figure it out.
+@reed I would choose C++
+Just because it has pointers and memory controlling, fundamental skills everyone should learn. (edited)
+
+<<<reed>>>
+Nah she can just copy a template on stackoverflow
+Won't be that hard
+
+<<<Farhad Mohsin>>>
+While I appreciate learning fundamental skills, for a project, I think I would agree with a lot of what I said before
+Python > Matlab > C++ > C > Java
+[Btw, @Lei Luo, it has been 15 minutes, we need to close this.] (edited)
+
+<<<Lei Luo>>>
+@Rohit Vaish @Farhad Mohsin I agree with you about we should think about some factors, but I have my own factors in thinking in this question.
+Yeah, no problem
+
+<<<reed>>>
+Should we provide our own rankings?
+Or we just close it
+
+<<<Lei Luo>>>
+My preference: C++ > Java > Python > C > Matlab
+Yes
+
+<<<reed>>>
+Python > Matlab > C++  > Java> C
+
+<<<Rohit Vaish>>>
+For me, it is Matlab > Python > {C,C++} > Java
+
+<<<Farhad Mohsin>>>
+For me, Python > Matlab > C++ > C > Java
+
+<<<Lei Luo>>>
+(One thing to say before we close: I perform to be like C++. I personally prefer Python)
+(I just want some diversities in the conversation)
+
+<<<Rohit Vaish>>>
+( :smile: )
+
+<<<Farhad Mohsin>>>
+I understood that :stuck_out_tongue:
+Thanks again, everyone.
+
+<<<Lei Luo>>>
+Thank you!
+
+<<<Rohit Vaish>>>
+Thanks all!
+
+<<<reed>>>
+Do we need another conversation?
+
+<<<Farhad Mohsin>>>
+These should be enough now, I think
+
+<<<Lei Luo>>>
+Yep
+
+<<<reed>>>
+ok
+
+<<<Lei Luo>>>
+Thank you @reed

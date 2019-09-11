@@ -15,7 +15,7 @@ It includes message ordering, sentiment analyze and so on
 
 """
 
-# set up Data from Google NLP client
+# set up CollegeDiscussion client
 google_client = language.LanguageServiceClient()
 
 # set up Data from Watson NLP client

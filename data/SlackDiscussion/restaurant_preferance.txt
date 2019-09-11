@@ -1,0 +1,130 @@
+<<<Lei Luo>>>
+Hi everyone, we should talk about which restaurant we should go
+I personally prefer Sunhee's Farm and Kitchen, Peck's Arcade, and Dinosaur BBQ
+I think Lirong went to too many Chinese restaurants. It is ridiculous.
+
+<<<Farhad Mohsin>>>
+I generally get seafood when outside. So Red and Blue and Plum Blossom restaurants make sense to me.
+I've been to Red and Blue, I would like to try Plum Blossom once
+
+<<<Rohit Vaish>>>
+I have not been to any of these places, but I have heard good things about Plum Blossom.
+
+<<<reed>>>
+What about Korean food? I think they will like it
+
+<<<Farhad Mohsin>>>
+Also, I like the spicy-ness about Korean food, so Sunhee's does seem like a good option
+
+<<<Lei Luo>>>
+Does Lirong usually eat spicy food?
+
+<<<Rohit Vaish>>>
+Interesting. I have never tried Korean food, so it sounds like an exciting option.
+
+<<<Farhad Mohsin>>>
+Has anyone been to Sunhee's before? what are some interesting items there?
+
+<<<Lei Luo>>>
+It seems like we have Plum Blossom and Korean Food on the list.
+I has been there a lot of times.
+
+<<<reed>>>
+The tofu soup there is my favorite
+
+<<<Lei Luo>>>
+I think their food is good, but each plate is pretty small
+
+<<<reed>>>
+Yeah
+
+<<<Lei Luo>>>
+Since there would be about six people for this dinner, I do not think Sunhee's Farm is good place to go.
+
+<<<Farhad Mohsin>>>
+We're not talking about Dino's at all though. Lei wanted to go to a non-chinese place. Does anyone think Dino's is a good idea?
+
+<<<reed>>>
+Dino is a considerable option for me
+
+<<<Farhad Mohsin>>>
+I've had vegetarian items there. They aren't my favorite, but they are not bad
+
+<<<Lei Luo>>>
+Farhad, are you a vegetarian?
+
+<<<Farhad Mohsin>>>
+No, but generally in restaurants, I prefer vegetarian or fish items. Which is why I initially preferred the chinese and korean restaurants
+
+<<<reed>>>
+Seems like we are ignoring Plum Blossom. I've never been there, is it good or not?
+
+<<<Lei Luo>>>
+I see. Plum Blossom does have a lot of Beijing food. The owner of this restaurant is from Taiwan. So the food there is not very authentic.
+Compared to Red and Blue, Plum Blossom is a better place for six people.
+
+<<<Rohit Vaish>>>
+Stepping aside from the types of cuisine for a moment, let's discuss other factors like ambience and cost.
+
+<<<Lei Luo>>>
+Yeah, I heard Plum Blossom is very expensive
+
+<<<Rohit Vaish>>>
+I see.
+
+<<<Lei Luo>>>
+Although Lirong is going to cover the cost for us, should we take care about the cost?
+
+<<<Farhad Mohsin>>>
+Red and Blue is quite cheap. I have been there often, but if it's Lirong feeding us, maybe we should prefer an expensive place like Plum Blossom?
+
+<<<Rohit Vaish>>>
+Can't argue with that. :slightly_smiling_face:
+
+<<<reed>>>
+lol
+
+<<<Lei Luo>>>
+Okey, it seems like everyone except me is excited about Plum Blossom and Korean Food. I will make a compromise. (edited)
+ 
+<<<Rohit Vaish>>>
+Seems like Plum Blossom is something that we would all like to try.
+
+<<<Lei Luo>>>
+Sure.
+
+<<<reed>>>
+That is a good idea
+
+<<<Farhad Mohsin>>>
+Yes, It seems alright
+
+<<<Lei Luo>>>
+Let's do a quick voting.
+
+<<<Farhad Mohsin>>>
+Okay, let's just put down a formal ranking
+As the ground truth
+1. Sunhee's Farm and Kitchen (Korean Food)
+2. Peck's Arcade (American Cuisine)
+3. Red and Blue (Chinese)
+4. Plum Blossom (Chinese)
+5. Dinosaur BBQ (American BBQ)
+For me, 4 > 1 > 3> 5 > 2
+
+<<<reed>>>
+4 1 5 3 2
+
+<<<Lei Luo>>>
+For me, 4 > 1 > 5 > 3 > 2
+
+<<<Rohit Vaish>>>
+I do not have a complete ranking, but I prefer 4 above all else.
+So, 4 > (1,2,3,5)
+
+<<<Farhad Mohsin>>>
+Cool
+Rohit, do you have time to join us for another session right away?
+
+<<<Rohit Vaish>>>
+Sure. I need to leave before 12 though. Sorry! :disappointed:

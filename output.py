@@ -51,10 +51,10 @@ def output_individual_entity_sentiment(output_path, ind_alter_data):
 
 # output whole or individual entity sentiment data in one discussion
 # in the format of (alternative entity sentiment discussion order)
-# Yale 0.512 1
-# Berkeley -0.1 1
-# Berkeley -0.5 2
-# Yale 0.00 2
+# Yale|0.512|1
+# Berkeley|-0.1|1
+# Berkeley|-0.5|2
+# Yale|0.00|2
 # @params whole_alter_data:
 # [(alternative, sentiment, order), (alternative, sentiment, order) by order]
 # alternative: Yale or Berkeley
@@ -63,8 +63,11 @@ def output_general_entity_sentiment(output_path, whole_alter_data):
     output_file = open(output_path, "w")
 
     # go through all data and save in output_file
-    for alter, sentiment, order, user_id in whole_alter_data:
-        output_file.write("{} {}{} {}\n".format(alter, sentiment, order, user_id))
+    for alters, sentiment, order, user_id in whole_alter_data:
+        # using the first alter as alternative word in data
+        alternative = alters.split("|")[0]
+        sent = sentiment.rstrip().lstrip().replace(" ", "|")
+        output_file.write("{}|{}|{}|{}\n".format(alternative, sent, order, user_id))
 
     output_file.close()
 

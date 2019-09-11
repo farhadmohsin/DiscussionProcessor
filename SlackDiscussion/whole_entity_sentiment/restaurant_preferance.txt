@@ -1,0 +1,15 @@
+Peck's Arcade|0.600|0.600|1|Lei Luo
+Sunhee's Farm and Kitchen|0.600|0.600|1|Lei Luo
+Peck's Arcade|0.700|0.700|1|Lei Luo
+Dinosaur BBQ|0.700|0.700|1|Lei Luo
+Plum Blossom|0.200|0.200|3|Rohit Vaish
+Sunhee's Farm and Kitchen|0.600|0.600|5|Farhad Mohsin
+Sunhee's Farm and Kitchen|0.500|0.500|13|Lei Luo
+Plum Blossom|-0.600|0.600|19|reed
+Plum Blossom|0.600|1.800|20|Lei Luo
+Plum Blossom|-0.900|0.900|22|Lei Luo
+Red and Blue|0.100|0.100|25|Farhad Mohsin
+Plum Blossom|-0.100|0.100|25|Farhad Mohsin
+Plum Blossom|0.100|0.100|28|Lei Luo
+Plum Blossom|0.200|0.200|29|Rohit Vaish
+Peck's Arcade|0.100|0.100|34|Farhad Mohsin

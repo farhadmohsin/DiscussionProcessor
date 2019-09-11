@@ -1,0 +1,65 @@
+C++|0.800|1.700|1|Lei Luo
+Python|0.800|0.800|2|Farhad Mohsin
+Python|0.100|0.100|3|reed
+Matlab|0.700|1.500|4|Rohit Vaish
+Java|0.800|1.700|5|reed
+C|0.700|0.700|5|reed
+C|0.800|0.800|5|reed
+Matlab|0.600|1.200|6|Farhad Mohsin
+C|0.900|0.900|6|Farhad Mohsin
+C|-0.300|0.300|7|Rohit Vaish
+Matlab|-0.200|0.200|7|Rohit Vaish
+Python|0.800|0.800|8|Lei Luo
+C|-0.100|0.100|8|Lei Luo
+C|-0.400|0.400|8|Lei Luo
+Python|-0.300|0.300|8|Lei Luo
+Java|-0.200|0.200|8|Lei Luo
+Matlab|0.200|0.700|10|Lei Luo
+C|0.200|0.200|10|Lei Luo
+Matlab|-0.100|0.100|11|reed
+C|0.700|0.700|13|Lei Luo
+C|0.300|0.300|13|Lei Luo
+Python|0.900|0.900|14|Farhad Mohsin
+C|0.200|0.200|14|Farhad Mohsin
+C|-0.400|0.400|15|Rohit Vaish
+C|-0.600|0.600|15|Rohit Vaish
+C|-0.200|0.200|15|Rohit Vaish
+C|0.100|0.100|15|Rohit Vaish
+C|0.600|0.600|17|Farhad Mohsin
+C|0.800|0.800|17|Farhad Mohsin
+C|0.400|0.400|17|Farhad Mohsin
+C|0.100|0.100|19|Rohit Vaish
+C|0.200|0.200|19|Rohit Vaish
+C|-0.100|0.100|21|Lei Luo
+C|0.100|0.100|22|Rohit Vaish
+C++|0.900|1.800|23|Lei Luo
+C|0.800|0.800|23|Lei Luo
+C|0.200|0.200|24|reed
+C|0.300|0.300|25|Farhad Mohsin
+C++|0.900|0.900|25|Farhad Mohsin
+Matlab|0.300|0.300|25|Farhad Mohsin
+Python|0.100|0.100|25|Farhad Mohsin
+Python|0.300|0.600|26|Lei Luo
+Python|0.200|1.200|27|Farhad Mohsin
+C|-0.200|0.200|27|Farhad Mohsin
+C|0.100|0.100|28|Lei Luo
+C|0.600|0.600|29|Rohit Vaish
+C|0.900|0.900|29|Rohit Vaish
+Python|0.200|1.300|30|Farhad Mohsin
+C|-0.200|0.200|30|Farhad Mohsin
+C|-0.200|0.400|32|Farhad Mohsin
+C|0.500|0.500|33|Rohit Vaish
+C|0.900|0.900|33|Rohit Vaish
+C++|0.100|0.400|36|Lei Luo
+C|-0.200|0.200|37|reed
+C|0.100|0.100|41|Lei Luo
+Java|0.200|0.200|41|Lei Luo
+Matlab|-0.200|0.200|41|Lei Luo
+Matlab|0.200|0.200|42|reed
+C++|0.300|0.300|42|reed
+C|0.100|0.100|42|reed
+Java|0.100|0.100|42|reed
+Matlab|0.100|0.100|44|Farhad Mohsin
+C++|0.200|0.200|44|Farhad Mohsin
+Java|-0.200|0.200|44|Farhad Mohsin
+Python|0.700|0.700|45|Lei Luo
